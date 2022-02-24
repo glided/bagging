@@ -1,8 +1,8 @@
 ````bash
-> ⭐ Im a person that has interests with computers and I'm really looking forward to going into college
+> ⭐ Im a person that has interests with computers and Im really looking forward to going into college
 >  for Computer Science. 
 
->  Games, content creation, Music and interaction between people is what I mostly enjoy, I'm a very open-minded person so I tend to
+>  Games, content creation, Music and interaction between people is what I mostly enjoy, Im a very open-minded person so I tend to
 >  enjoy lots of new things!
 ````
 
