@@ -1,17 +1,17 @@
 ````bash
-> A potterhead and greek mythology enthusianst who mainly programs in Java and has recently ventured out into Python. Is
-> trying out ML to see what all the fuss is about and he might actually ❤ it. Likes solving problems on hackerrank.
-> Currently an undergrad@DTU batch of '21 studying mathematics and computing engineering and teaching java and python
-> to students at What After College.
+> ⭐ Im a person that has interests with computers and I'm really looking forward to going into college
+>  for Computer Science. 
+
+>  Games, content creation, Music and interaction between people is what I mostly enjoy, I'm a very open-minded person so I tend to
+>  enjoy lots of new things!
 ````
 
 ````bash
-> help --contact
-> linkedin: anishsachdeva1998
-> instagram: anish.sachdeva_
-> github: anishLearnsToCode
-> medium: @anishsachdeva
-> mailto: anish_ [at] outlook.com
+> --contact
+> instagram: partywithdon
+> github: @bagging
+> email: do@fbi.ac
+> discord: don#0002
 ````
 
-⭐ From [anishLearnsToCode](https://github.com/anishLearnsToCode)
+
