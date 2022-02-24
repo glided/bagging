@@ -6,15 +6,15 @@
 >  so I tend to enjoy lots of new things!
 ````
 ````bash
-#LANGUAGES IM GOOD WITH
+--LANGUAGES IM GOOD WITH
 >  Python
 >  C++
 
-#LANGUAGES IM LEARNING 
+--LANGUAGES IM LEARNING 
 > C++
 > Assembly
 
-#LANGUAGES IM LEARNING IN THE FUTURE
+--LANGUAGES IM LEARNING IN THE FUTURE
 > JS
 
 ````
