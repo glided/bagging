@@ -2,8 +2,8 @@
 > ⭐ Im a person that has interests with computers and Im really looking forward to going into college
 >  for Computer Science. 
 
->  Games, content creation, Music and interaction between people is what I mostly enjoy, Im a very open-minded person so I tend to
->  enjoy lots of new things!
+>  Games, content creation, Music and interaction between people is what I mostly enjoy, Im a very open-minded person
+>  so I tend to enjoy lots of new things!
 ````
 
 ````bash
